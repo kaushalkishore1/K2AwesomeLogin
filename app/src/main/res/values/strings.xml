@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AwesomeLogin</string>
+
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="go">GO</string>
+    <string name="email">Email</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="next">NEXT</string>
+    <string name="register">REGISTER</string>
+
+    <string name="different_login">ou</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_recover">Recover</string>
+    <string name="remembered_password">Just remembered it?</string>
+    <string name="forgot">Forgot Password</string>
+</resources>
